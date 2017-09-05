@@ -1,6 +1,10 @@
 CWAC-Cam2: Taking Pictures. Made (Somewhat) Sensible. Again.
 ============================================================
 
+**This library is discontinued and deprecated.**
+New projects should look elsewhere, and existing projects should plan
+on migrating to something else.
+
 Taking pictures using a third-party app is fairly straightforward,
 using `ACTION_IMAGE_CAPTURE` and `ACTION_VIDEO_CAPTURE`. However, different camera
 apps have slightly different behavior, meaning that you are prone to getting
