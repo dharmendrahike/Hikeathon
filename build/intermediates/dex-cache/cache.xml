@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41a0ebb89cade0134cb9ab91c9ce376301505580">
+        <dex dex="/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/pre-dexed/debug/classes_b9d15bc339bf814c4681f32399d15f2f0d795919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dharmendraverma/.android/build-cache/81a40575510947ae190b5d6db390f83952add5cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/pre-dexed/debug/classes_cba0800f39b763970b55884d7f18d2e78b409d7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dharmendraverma/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/pre-dexed/debug/eventbus-3.0.0_807fe613c39a9415ebe32fd4ab9928bf07c4969e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dharmendraverma/.android/build-cache/a93f4bbe261c5c558b52e532fa5f6886deeeb99c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/pre-dexed/debug/classes_cd1007ce23783b13157c7cde14a077f38dda7041.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dharmendraverma/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_9b3cdd29cee7ab20ce779867feea19afda7c84ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dharmendraverma/.android/build-cache/87df9c948cdf45b5d5ea6409e8d9aa8777519b38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/pre-dexed/debug/classes_693060a979960058b3d8fad042bed182f26c4380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dharmendraverma/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.5/288101b16513158c2923ad3fb6161d1452b65e73/leakcanary-watcher-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="288101b16513158c2923ad3fb6161d1452b65e73">
+        <dex dex="/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.5_e8fa2d8e7789203de470a0b1b5baf82fd75714b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dharmendraverma/.android/build-cache/543cdb170e711f01714d3433c2e398cd8b71a6a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/pre-dexed/debug/classes_064cf47c42d86b773170711a4504356cb323079d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dharmendraverma/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.5/3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f/leakcanary-analyzer-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f">
+        <dex dex="/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.5_fd140ec88d452f9b6aec2bb21c7b029bea67d016.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dharmendraverma/.android/build-cache/cd77e1842708213b0188e11bd6bb203c88e8fbe6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/pre-dexed/debug/classes_6bc3459845af216b8c4ebcb7dffe03e49452ad9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7a2672b3122b897a0751f327929ae405ea02bf7">
+        <dex dex="/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/pre-dexed/debug/classes_33c2bed20425c12eaa9ae669ddea7219afafe4ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dharmendraverma/.android/build-cache/35fd929260ca64c901f3dafd9a1aea3e5cf08a4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="430c4a364ab63fa21cacf6b1d71576cd0136f3d8">
+        <dex dex="/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/pre-dexed/debug/classes_6420abeed1693e37e3650e8bc36c5dfdfdb9ee8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dharmendraverma/.android/build-cache/a6fa493a8530f115935e5d512cbfc1486c5d8d06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/pre-dexed/debug/classes_66747e148eb76e08cd3f7b448fa4e4d04cc51437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dharmendraverma/.android/build-cache/92ff4477d2c8fed01ab0a6ec67846994226607a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="058253c7da6cf5cb545922d07fcc2cd19d5d0ce1">
+        <dex dex="/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/pre-dexed/debug/classes_b93d791595f96d37bb27ae762e8155cb9e3ae048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dharmendraverma/.android/build-cache/c8117a1eda1242d8a6ba635f56d8c3bcb4cca0ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bee3db5fa7bb9cd0e8f08070a34ca6e67f969fb6">
+        <dex dex="/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/pre-dexed/debug/classes_0a7c9715dd2ffc4afb61891a23d9b73522391800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dharmendraverma/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.3/640a438d2d415c056ca6a673ac26b183b044e160/haha-2.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/pre-dexed/debug/haha-2.0.3_358c56eb99c6b0ce9ee62bae56ec9f3731c30f1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dharmendraverma/.android/build-cache/321b448ea82e53063a92ee66589f0bdd8e7f9293/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/pre-dexed/debug/classes_0cab55eaa6cc1a5ccd79cb90509d9613c671e0a5.jar" />
+    </item>
+
+</items>

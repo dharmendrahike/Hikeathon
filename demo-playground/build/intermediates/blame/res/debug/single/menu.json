@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/res/merged/debug/menu/actions.xml",
+        "source": "/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/res/menu/actions.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/res/merged/debug/menu/cwac_cam2_confirm.xml",
+        "source": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/res/menu/cwac_cam2_confirm.xml"
+    }
+]

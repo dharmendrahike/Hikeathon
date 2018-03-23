@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.commonsware.cwac:provider-0.4.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/35fd929260ca64c901f3dafd9a1aea3e5cf08a4d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/35fd929260ca64c901f3dafd9a1aea3e5cf08a4d/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

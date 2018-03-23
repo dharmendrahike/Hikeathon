@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/res/merged/debug/drawable/cwac_cam2_action_bar_bg_transparent.xml",
+        "source": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/res/drawable/cwac_cam2_action_bar_bg_transparent.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/res/merged/debug/drawable/leak_canary_toast_background.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/res/drawable/leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/res/merged/debug/drawable/cwac_cam2_action_bar_bg_translucent.xml",
+        "source": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/res/drawable/cwac_cam2_action_bar_bg_translucent.xml"
+    }
+]

@@ -1,0 +1,406 @@
+[
+    {
+        "outputFile": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 55,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 55,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 63,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 63,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 57,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 57,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endColumn": 65,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endColumn": 65,
+                        "endOffset": 358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 57,
+                    "endOffset": 416
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 363,
+                        "endColumn": 57,
+                        "endOffset": 416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 421,
+                    "endColumn": 65,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 421,
+                        "endColumn": 65,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 4064,
+                    "endColumn": 63,
+                    "endOffset": 4123
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 63,
+                        "endOffset": 546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 4128,
+                    "endColumn": 72,
+                    "endOffset": 4196
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 551,
+                        "endColumn": 72,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 4201,
+                    "endColumn": 67,
+                    "endOffset": 4264
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 67,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 4269,
+                    "endColumn": 63,
+                    "endOffset": 4328
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 63,
+                        "endOffset": 751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 4333,
+                    "endColumn": 67,
+                    "endOffset": 4396
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 756,
+                        "endColumn": 67,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 4401,
+                    "endColumn": 66,
+                    "endOffset": 4463
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 66,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 4468,
+                    "endColumn": 63,
+                    "endOffset": 4527
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endColumn": 63,
+                        "endOffset": 950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 4532,
+                    "endColumn": 54,
+                    "endOffset": 4582
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 54,
+                        "endOffset": 1005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 4587,
+                    "endColumn": 44,
+                    "endOffset": 4627
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/.android/build-cache/a6fa493a8530f115935e5d512cbfc1486c5d8d06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 3632,
+                        "endColumn": 44,
+                        "endOffset": 3672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 4632,
+                    "endColumn": 46,
+                    "endOffset": 4674
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/.android/build-cache/a6fa493a8530f115935e5d512cbfc1486c5d8d06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 3677,
+                        "endColumn": 46,
+                        "endOffset": 3719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 4679,
+                    "endColumn": 47,
+                    "endOffset": 4722
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/.android/build-cache/a6fa493a8530f115935e5d512cbfc1486c5d8d06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 3724,
+                        "endColumn": 47,
+                        "endOffset": 3767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 4727,
+                    "endColumn": 38,
+                    "endOffset": 4761
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/.android/build-cache/a6fa493a8530f115935e5d512cbfc1486c5d8d06/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 3772,
+                        "endColumn": 38,
+                        "endOffset": 3806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 4766,
+                    "endColumn": 43,
+                    "endOffset": 4805
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1010,
+                        "endColumn": 43,
+                        "endOffset": 1049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 4810,
+                    "endColumn": 53,
+                    "endOffset": 4859
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1054,
+                        "endColumn": 53,
+                        "endOffset": 1103
+                    }
+                }
+            }
+        ]
+    }
+]

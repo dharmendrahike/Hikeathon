@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "/Users/dharmendraverma/StudioProjects/cwac-cam2/demo/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 9,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/StudioProjects/cwac-cam2/demo/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 211,
+                        "endLine": 9,
+                        "endColumn": 9,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endLine": 6,
+                    "endColumn": 10,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "/Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 3,
+                        "endColumn": 10,
+                        "endOffset": 136
+                    }
+                }
+            }
+        ]
+    }
+]

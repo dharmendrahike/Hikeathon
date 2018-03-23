@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:2:11-57
+	android:versionName
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:6:3-28
+		INJECTED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml
+		INJECTED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:4:3-49
+	android:versionCode
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:5:3-26
+		INJECTED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml
+		INJECTED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:3:3-61
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:8:3-79
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:26:5-81
+MERGED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:8:20-76
+application
+ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:10:3-54:17
+MERGED from [com.commonsware.cwac:provider:0.4.4] /Users/dharmendraverma/.android/build-cache/35fd929260ca64c901f3dafd9a1aea3e5cf08a4d/output/AndroidManifest.xml:9:5-10:19
+MERGED from [com.android.support:support-v13:25.1.1] /Users/dharmendraverma/.android/build-cache/92ff4477d2c8fed01ab0a6ec67846994226607a0/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /Users/dharmendraverma/.android/build-cache/81a40575510947ae190b5d6db390f83952add5cd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/dharmendraverma/.android/build-cache/87df9c948cdf45b5d5ea6409e8d9aa8777519b38/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/dharmendraverma/.android/build-cache/321b448ea82e53063a92ee66589f0bdd8e7f9293/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/dharmendraverma/.android/build-cache/a93f4bbe261c5c558b52e532fa5f6886deeeb99c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/dharmendraverma/.android/build-cache/cd77e1842708213b0188e11bd6bb203c88e8fbe6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /Users/dharmendraverma/.android/build-cache/543cdb170e711f01714d3433c2e398cd8b71a6a3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:28:5-57:19
+MERGED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:26:5-29:19
+MERGED from [com.github.clans:fab:1.6.4] /Users/dharmendraverma/.android/build-cache/a6fa493a8530f115935e5d512cbfc1486c5d8d06/output/AndroidManifest.xml:12:5-20
+	android:label
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:14:5-37
+	android:allowBackup
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:11:5-32
+	android:icon
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:13:5-41
+	android:theme
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:15:5-36
+	tools:replace
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:16:5-40
+	android:name
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:12:5-34
+activity#com.commonsware.cwac.cam2.playground.PictureActivity
+ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:17:5-25:16
+	android:label
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:19:7-39
+	android:name
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:18:7-38
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:20:7-24:23
+action#android.intent.action.MAIN
+ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:21:9-61
+	android:name
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:21:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:23:9-69
+	android:name
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:23:19-66
+activity#com.commonsware.cwac.cam2.playground.VideoActivity
+ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:26:5-35:16
+	android:label
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:28:7-45
+	android:theme
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:29:7-38
+	android:name
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:27:7-36
+activity#com.commonsware.cwac.cam2.CameraActivity
+ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:36:5-39:50
+MERGED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:27:9-77
+	android:process
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:38:7-35
+	android:theme
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:39:7-47
+	android:name
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:37:7-62
+activity#com.commonsware.cwac.cam2.VideoRecorderActivity
+ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:40:5-43:50
+MERGED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:28:9-84
+	android:process
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:42:7-35
+	android:theme
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:43:7-47
+	android:name
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:41:7-69
+activity#com.commonsware.cwac.cam2.playground.VideoPlayerActivity
+ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:44:5-53
+	android:name
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:44:15-50
+provider#com.commonsware.cwac.cam2.playground.LegacyCompatFileProvider
+ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:45:5-53:16
+	android:authorities
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:47:7-54
+		INJECTED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml
+	android:grantUriPermissions
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:49:7-41
+	android:exported
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:48:7-31
+	android:name
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:46:7-46
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:50:7-52:49
+	android:resource
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:52:9-47
+	android:name
+		ADDED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:51:9-59
+uses-sdk
+INJECTED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.1.4] /Users/dharmendraverma/.android/build-cache/c8117a1eda1242d8a6ba635f56d8c3bcb4cca0ad/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.commonsware.cwac:provider:0.4.4] /Users/dharmendraverma/.android/build-cache/35fd929260ca64c901f3dafd9a1aea3e5cf08a4d/output/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-v13:25.1.1] /Users/dharmendraverma/.android/build-cache/92ff4477d2c8fed01ab0a6ec67846994226607a0/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:25.1.1] /Users/dharmendraverma/.android/build-cache/81a40575510947ae190b5d6db390f83952add5cd/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/dharmendraverma/.android/build-cache/87df9c948cdf45b5d5ea6409e8d9aa8777519b38/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/dharmendraverma/.android/build-cache/321b448ea82e53063a92ee66589f0bdd8e7f9293/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/dharmendraverma/.android/build-cache/a93f4bbe261c5c558b52e532fa5f6886deeeb99c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/dharmendraverma/.android/build-cache/cd77e1842708213b0188e11bd6bb203c88e8fbe6/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] /Users/dharmendraverma/.android/build-cache/543cdb170e711f01714d3433c2e398cd8b71a6a3/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:20:5-22:41
+MERGED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.clans:fab:1.6.4] /Users/dharmendraverma/.android/build-cache/a6fa493a8530f115935e5d512cbfc1486c5d8d06/output/AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.1.1] /Users/dharmendraverma/.android/build-cache/92ff4477d2c8fed01ab0a6ec67846994226607a0/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml
+		INJECTED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml
+		INJECTED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:25:5-80
+IMPLIED from /Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/src/main/AndroidManifest.xml:2:1-56:12 reason: com.squareup.leakcanary requested WRITE_EXTERNAL_STORAGE
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:25:22-77
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:29:9-32:45
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:31:13-36
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:32:13-42
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:30:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:33:9-35:39
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:34:13-70
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:37:9-49:20
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:39:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:41:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:40:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:43:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:42:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:38:13-80
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:50:9-56:68
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:52:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:54:13-82
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:53:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:56:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:55:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/AndroidManifest.xml:51:13-93
+uses-permission#android.permission.CAMERA
+ADDED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:11:22-68
+uses-feature#android.hardware.camera
+ADDED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:13:5-15:35
+	android:required
+		ADDED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:17:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:20:9-57
+uses-feature#android.hardware.microphone
+ADDED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [cwac-cam2:cam2:unspecified] /Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/AndroidManifest.xml:23:9-51

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/21a85db9c09c0a50caa2422c0343311df9be2de2/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/21a85db9c09c0a50caa2422c0343311df9be2de2/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/21a85db9c09c0a50caa2422c0343311df9be2de2/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/fab_slide_in_from_left.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/a6fa493a8530f115935e5d512cbfc1486c5d8d06/output/res/anim/fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/21a85db9c09c0a50caa2422c0343311df9be2de2/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/cwac_cam2_fade_out.xml",
+        "source": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/res/anim/cwac_cam2_fade_out.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/21a85db9c09c0a50caa2422c0343311df9be2de2/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/21a85db9c09c0a50caa2422c0343311df9be2de2/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/fab_slide_out_to_right.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/a6fa493a8530f115935e5d512cbfc1486c5d8d06/output/res/anim/fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/21a85db9c09c0a50caa2422c0343311df9be2de2/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/21a85db9c09c0a50caa2422c0343311df9be2de2/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/fab_scale_down.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/a6fa493a8530f115935e5d512cbfc1486c5d8d06/output/res/anim/fab_scale_down.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/21a85db9c09c0a50caa2422c0343311df9be2de2/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/cwac_cam2_fade_in.xml",
+        "source": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/res/anim/cwac_cam2_fade_in.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/fab_slide_in_from_right.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/a6fa493a8530f115935e5d512cbfc1486c5d8d06/output/res/anim/fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/fab_scale_up.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/a6fa493a8530f115935e5d512cbfc1486c5d8d06/output/res/anim/fab_scale_up.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/21a85db9c09c0a50caa2422c0343311df9be2de2/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/debug/anim/fab_slide_out_to_left.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/a6fa493a8530f115935e5d512cbfc1486c5d8d06/output/res/anim/fab_slide_out_to_left.xml"
+    }
+]

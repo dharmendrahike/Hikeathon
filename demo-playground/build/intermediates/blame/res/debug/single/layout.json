@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/res/merged/debug/layout/leak_canary_leak_row.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/res/layout/leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/res/merged/debug/layout/leak_canary_heap_dump_toast.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/res/layout/leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/res/merged/debug/layout/leak_canary_display_leak.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/res/layout/leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/res/merged/debug/layout/leak_canary_ref_row.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/res/layout/leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/res/merged/debug/layout/leak_canary_ref_top_row.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/5ea08f25d0b934f589fc91facdaf2d801c180fdd/output/res/layout/leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/demo-playground/build/intermediates/res/merged/debug/layout/cwac_cam2_fragment.xml",
+        "source": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2/build/intermediates/bundles/default/res/layout/cwac_cam2_fragment.xml"
+    }
+]

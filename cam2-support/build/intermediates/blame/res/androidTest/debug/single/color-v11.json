@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/21a85db9c09c0a50caa2422c0343311df9be2de2/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/dharmendraverma/StudioProjects/cwac-cam2/cam2-support/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/dharmendraverma/.android/build-cache/21a85db9c09c0a50caa2422c0343311df9be2de2/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
