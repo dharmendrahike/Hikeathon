@@ -222,6 +222,8 @@ abstract public class AbstractCameraActivity extends Activity {
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
 
+    android.util.Log.i("dharmendra", "oncreateabstractcamera");
+
     Utils.validateEnvironment(this, failIfNoPermissions());
 
     OrientationLockMode olockMode=

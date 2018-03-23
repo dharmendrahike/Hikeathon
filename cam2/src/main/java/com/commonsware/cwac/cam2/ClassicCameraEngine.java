@@ -309,7 +309,9 @@ public class ClassicCameraEngine extends CameraEngine
             false));
           camera.setPreviewTexture(texture);
           camera.startPreview();
-          getBus().post(new OpenedEvent());
+          OpenedEvent event = new OpenedEvent();
+          event.setCameraReference(camera);
+          getBus().post(event);
         }
         catch (Exception e) {
           camera.release();

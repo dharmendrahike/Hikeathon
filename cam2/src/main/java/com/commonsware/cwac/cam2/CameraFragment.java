@@ -26,6 +26,7 @@ import android.animation.ObjectAnimator;
 import android.app.ActionBar;
 import android.app.Fragment;
 import android.content.Context;
+import android.hardware.Camera;
 import android.media.MediaScannerConnection;
 import android.net.Uri;
 import android.os.Build;
@@ -53,7 +54,7 @@ import java.util.LinkedList;
  * you (or the user) to take a picture.
  */
 public class CameraFragment extends Fragment
-  implements ReverseChronometer.Listener {
+  implements ReverseChronometer.Listener, Camera.PreviewCallback {
   private static final String ARG_OUTPUT="output";
   private static final String ARG_UPDATE_MEDIA_STORE=
     "updateMediaStore";
@@ -388,7 +389,10 @@ public class CameraFragment extends Fragment
   @SuppressWarnings("unused")
   @Subscribe(threadMode=ThreadMode.MAIN)
   public void onEventMainThread(CameraEngine.OpenedEvent event) {
+    Log.i("dharmendra", "openevent");
     if (event.exception==null) {
+      Camera camera = event.getCamera();
+      camera.setPreviewCallback(this);
       progress.setVisibility(View.GONE);
       fabSwitch.setEnabled(canSwitchSources());
       fabPicture.setEnabled(true);
@@ -745,4 +749,10 @@ public class CameraFragment extends Fragment
         // no-op
       }
     };
+
+  @Override
+  public void onPreviewFrame(byte[] bytes, Camera camera) {
+    camera.addCallbackBuffer(bytes);
+       Log.i("dharmendra", "previewcallback");
+  }
 }

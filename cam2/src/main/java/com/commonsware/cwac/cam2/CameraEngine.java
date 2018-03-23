@@ -16,6 +16,7 @@ package com.commonsware.cwac.cam2;
 
 import android.content.Context;
 import android.graphics.SurfaceTexture;
+import android.hardware.Camera;
 import android.os.Build;
 import android.util.Log;
 import org.greenrobot.eventbus.EventBus;
@@ -106,8 +107,18 @@ abstract public class CameraEngine {
    * an exception accessing the camera.
    */
   public static class OpenedEvent extends CrashableEvent {
+    private Camera camera;
+
     public OpenedEvent() {
       super();
+    }
+
+    public void setCameraReference(Camera camera) {
+      this.camera = camera;
+    }
+
+    public Camera getCamera() {
+      return camera;
     }
 
     public OpenedEvent(Exception exception) {
